@@ -1,0 +1,8 @@
+1. Pastikan data latih dan data uji sudah ada.
+2. Pertama, jalankan file "GLCMEkstraksiciri.m" untuk mengekstraksi ciri data latih dan atur parameter GLCM data latih.
+3. Buka "Pisah_Hasil_EkstraksiFitur.m" untuk memisahkan nilai fitur antar kelasnya.
+4. Lihat grafik fitur antar kelas pada folder "ChartEkstraksi_Fitur".
+5. Buka "combineFeature.m" dan tentukan fitur terbaik yang akan digunakan.
+6. Buka "SVM_Model_Train.m" dan atur parameter Multi-SVM.
+7. Buka "SVM_Classification.m" dan atur parameter GLCM data uji serta kombinasi fitur.
+8. Lihat akurasi dan simpulkan.
