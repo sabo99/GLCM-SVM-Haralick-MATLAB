@@ -6,3 +6,13 @@
 6. Buka "SVM_Model_Train.m" dan atur parameter Multi-SVM.
 7. Buka "SVM_Classification.m" dan atur parameter GLCM data uji serta kombinasi fitur.
 8. Lihat akurasi dan simpulkan.
+
+
+File dalam Folder train/test digabung
+------------------------------------
+test
+----
+	jenisX1 ... jenisXn
+	jenisY1 ... jenisYn
+	jenisZ1 ... jenisZn
+------------------------------------
