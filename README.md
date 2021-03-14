@@ -25,4 +25,4 @@
 
 ![image](https://user-images.githubusercontent.com/49272368/111065557-07ecb100-84ed-11eb-8c5c-4bcfe10710a4.png)
 
-Jurnal Referensi : https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212110
+Jurnal Referensi : https://doi.org/10.1371/journal.pone.0212110
