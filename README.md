@@ -21,7 +21,7 @@
 - 0'
 - 45'
 - 90'
-- 125'
+- 135'
 
 ![image](https://user-images.githubusercontent.com/49272368/111065557-07ecb100-84ed-11eb-8c5c-4bcfe10710a4.png)
 
